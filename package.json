@@ -1,0 +1,38 @@
+{
+  "name": "chat_application",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@axetroy/react-download": "^1.1.1",
+    "array-unique": "^0.3.2",
+    "axios": "^0.18.0",
+    "date-and-time": "^0.6.2",
+    "emoji-js": "^3.4.1",
+    "emoji-picker-react": "^2.0.5",
+    "emojify.js": "^1.1.0",
+    "fs": "0.0.1-security",
+    "hashmap": "^2.3.0",
+    "jquery": "^3.3.1",
+    "js-file-download": "^0.4.1",
+    "moment": "^2.22.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-emoji": "^0.5.0",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1",
+    "react-s-alert": "^1.4.1",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.0",
+    "redux-form": "^7.4.2",
+    "redux-thunk": "^2.3.0",
+    "socket.io-client": "^2.1.1",
+    "uniqid": "^5.0.3",
+    "whitespace-regex": "^0.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

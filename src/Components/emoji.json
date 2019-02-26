@@ -1,0 +1,514 @@
+[
+    {
+        "key": "rolling_on_the_floor_laughing",
+        "value": "rofl"
+    },
+    {
+        "key": "slightly_smiling_face",
+        "value": "simple_smile"
+    },
+    {
+        "key": "upside_down_face",
+        "value": "upside_down"
+    },
+    {
+        "key": "money_mouth_face",
+        "value": "money_mouth"
+    },
+    {
+        "key": "hugging_face",
+        "value": "hugging"
+    },
+    {
+        "key": "nerd_face",
+        "value": "nerd"
+    },
+    {
+        "key": "clown_face",
+        "value": "clown"
+    },
+    {
+        "key": "face_with_cowboy_hat",
+        "value": "cowboy"
+    },
+    {
+        "key": "slightly_frowning_face",
+        "value": "slight_frown"
+    },
+    {
+        "key": "white_frowning_face",
+        "value": "frowning2"
+    },
+    {
+        "key": "face_with_rolling_eyes",
+        "value": "rolling_eyes"
+    },
+    {
+        "key": "thinking_face",
+        "value": "thinking"
+    },
+    {
+        "key": "zipper_mouth_face",
+        "value": "zipper_mouth"
+    },
+    {
+        "key": "skull_and_crossbones",
+        "value": "skull_crossbones"
+    },
+    {
+        "key": "face_with_head_bandage",
+        "value": "head_bandage"
+    },
+    {
+        "key": "face_with_thermometer",
+        "value": "thermometer_face"
+    },
+    {
+        "key": "robot_face",
+        "value": "robot"
+    },
+    {
+        "key": "left-facing_fist",
+        "value": "left_facing_fist"
+    },
+    {
+        "key": "right-facing_fist",
+        "value": "right_facing_fist"
+    },
+    {
+        "key": "hand_with_index_and_middle_fingers_crossed",
+        "value": "fingers_crossed"
+    },
+    {
+        "key": "the_horns",
+        "value": "metal"
+    },
+    {
+        "key": "raised_hand_with_fingers_splayed",
+        "value": "hand_splayed"
+    },
+    {
+        "key": "spock-hand",
+        "value": "vulcan"
+    },
+    {
+        "key": "call_me_hand",
+        "value": "call_me"
+    },
+    {
+        "key": "speaking_head_in_silhouette",
+        "value": "speaking_head"
+    },
+    {
+        "key": "sleuth_or_spy",
+        "value": "spy"
+    },
+    {
+        "key": "mother_christmas",
+        "value": "mrs_claus"
+    },
+    {
+        "key": "man_in_business_suit_levitating",
+        "value": "levitate"
+    },
+    {
+        "key": "helmet_with_white_cross",
+        "value": "helmet_with_cross"
+    },
+    {
+        "key": "kiwifruit",
+        "value": "kiwi"
+    },
+    {
+        "key": "daguette_bread",
+        "value": "french_bread"
+    },
+    {
+        "key": "cheese_wedge",
+        "value": "cheese"
+    },
+    {
+        "key": "fried_egg",
+        "value": "cooking"
+    },
+    {
+        "key": "green_salad",
+        "value": "salad"
+    },
+    {
+        "key": "clinking_glasses",
+        "value": "champagne_glass"
+    },
+    {
+        "key": "glass_of_milk",
+        "value": "milk"
+    },
+    {
+        "key": "knife_fork_plate",
+        "value": "fork_knife_plate"
+    },
+    {
+        "key": "fox_face",
+        "value": "fox"
+    },
+    {
+        "key": "unicorn_face",
+        "value": "unicorn"
+    },
+    {
+        "key": "rhinoceros",
+        "value": "rhino"
+    },
+    {
+        "key": "dove_of_peace",
+        "value": "dove"
+    },
+    {
+        "key": "wilted_flower",
+        "value": "wilted_rose"
+    },
+    {
+        "key": "mostly_sunny",
+        "value": "white_sun_small_cloud"
+    },
+    {
+        "key": "barely_sunny",
+        "value": "white_sun_cloud"
+    },
+    {
+        "key": "partly_sunny_rain",
+        "value": "white_sun_rain_cloud"
+    },
+    {
+        "key": "rain_cloud",
+        "value": "cloud_rain"
+    },
+    {
+        "key": "thunder_cloud_and_rain",
+        "value": "thunder_cloud_rain"
+    },
+    {
+        "key": "lightning",
+        "value": "cloud_lightning"
+    },
+    {
+        "key": "snowman_without_snow",
+        "value": "snowman"
+    },
+    {
+        "key": "tornado",
+        "value": "cloud_tornado"
+    },
+    {
+        "key": "umbrella_with_rain_drops",
+        "value": "umbrella"
+    },
+    {
+        "key": "table_tennis_paddle_and_ball",
+        "value": "ping_pong"
+    },
+    {
+        "key": "badminton_racquet_and_shuttlecock",
+        "value": "badminton"
+    },
+    {
+        "key": "goal_net",
+        "value": "goal"
+    },
+    {
+        "key": "ice_hockey_stick_and_puck",
+        "value": "hockey"
+    },
+    {
+        "key": "field_hockey_stick_and_ball",
+        "value": "field_hockey"
+    },
+    {
+        "key": "cricket_bat_and_ball",
+        "value": "cricket"
+    },
+    {
+        "key": "weight_lifter",
+        "value": "lifter"
+    },
+    {
+        "key": "person_doing_cartwheel",
+        "value": "cartwheel"
+    },
+    {
+        "key": "person_with_ball",
+        "value": "basketball_player"
+    },
+    {
+        "key": "sports_medal",
+        "value": "medal"
+    },
+    {
+        "key": "first_place_medal",
+        "value": "first_place"
+    },
+    {
+        "key": "second_place_medal",
+        "value": "second_place"
+    },
+    {
+        "key": "admission_tickets",
+        "value": "tickets"
+    },
+    {
+        "key": "drum_with_drumsticks",
+        "value": "drum"
+    },
+    {
+        "key": "desktop_computer",
+        "value": "desktop"
+    },
+    {
+        "key": "three_button_mouse",
+        "value": "mouse_three_button"
+    },
+    {
+        "key": "film_projector",
+        "value": "projector"
+    },
+    {
+        "key": "studio_microphone",
+        "value": "microphone2"
+    },
+    {
+        "key": "timer_clock",
+        "value": "timer"
+    },
+    {
+        "key": "mantelpiece_clock",
+        "value": "clock"
+    },
+    {
+        "key": "satellite_antenna",
+        "value": "satellite"
+    },
+    {
+        "key": "oil_drum",
+        "value": "oil"
+    },
+    {
+        "key": "third_place_medal",
+        "value": "third_place"
+    },
+    {
+        "key": "snow_cloud",
+        "value": "cloud_snow"
+    },
+    {
+        "key": "hammer_and_pick",
+        "value": "hammer_pick"
+    },
+    {
+        "key": "hammer_and_wrench",
+        "value": "tools"
+    },
+    {
+        "key": "dagger_knife",
+        "value": "dagger"
+    },
+    {
+        "key": "funeral_urn",
+        "value": "urn"
+    },
+    {
+        "key": "bellhop_bell",
+        "value": "bellhop"
+    },
+    {
+        "key": "old_key",
+        "value": "key2"
+    },
+    {
+        "key": "couch_and_lamp",
+        "value": "couch"
+    },
+    {
+        "key": "frame_with_picture",
+        "value": "frame_photo"
+    },
+    {
+        "key": "shopping_trolley",
+        "value": "shopping_cart"
+    },
+    {
+        "key": "spiral_note_pad",
+        "value": "notepad_spiral"
+    },
+    {
+        "key": "spiral_calendar_pad",
+        "value": "calendar_spiral"
+    },
+    {
+        "key": "card_file_box",
+        "value": "card_box"
+    },
+    {
+        "key": "ballot_box_with_ballot",
+        "value": "ballot_box"
+    },
+    {
+        "key": "card_index_dividers",
+        "value": "dividers"
+    },
+    {
+        "key": "rolled_up_newspaper",
+        "value": "newspaper2"
+    },
+    {
+        "key": "linked_paperclips",
+        "value": "paperclips"
+    },
+    {
+        "key": "lower_left_ballpoint_pen",
+        "value": "pen_ballpoint"
+    },
+    {
+        "key": "lower_left_fountain_pen",
+        "value": "pen_fountain"
+    },
+    {
+        "key": "lower_left_paintbrush",
+        "value": "paintbrush"
+    },
+    {
+        "key": "lower_left_crayon",
+        "value": "crayon"
+    },
+    {
+        "key": "racing_car",
+        "value": "race_car"
+    },
+    {
+        "key": "racing_motorcycle",
+        "value": "motorcycle"
+    },
+    {
+        "key": "small_airplane",
+        "value": "airplane_small"
+    },
+    {
+        "key": "motor_boat",
+        "value": "motorboat"
+    },
+    {
+        "key": "passenger_ship",
+        "value": "cruise_ship"
+    },
+    {
+        "key": "world_map",
+        "value": "map"
+    },
+    {
+        "key": "umbrella_on_ground",
+        "value": "beach_umbrella"
+    },
+    {
+        "key": "beach_with_umbrella",
+        "value": "beach_umbrella"
+    },
+    {
+        "key": "desert_island",
+        "value": "island"
+    },
+    {
+        "key": "snow_capped_mountain",
+        "value": "mountain_snow"
+    },
+    {
+        "key": "building_construction",
+        "value": "construction_site"
+    },
+    {
+        "key": "house_buildings",
+        "value": "homes"
+    },
+    {
+        "key": "derelict_house_building",
+        "value": "house_abandoned"
+    },
+    {
+        "key": "national_park",
+        "value": "park"
+    },
+    {
+        "key": "waving_white_flag",
+        "value": "flag_white"
+    },
+    {
+        "key": "waving_black_flag",
+        "value": "flag_black"
+    },
+    {
+        "key": "heavy_heart_exclamation_mark_ornament",
+        "value": "heart_exclamation"
+    },
+    {
+        "key": "peace_symbol",
+        "value": "peace"
+    },
+    {
+        "key": "latin_cross",
+        "value": "cross"
+    },
+    {
+        "key": "menorah_with_nine_branches",
+        "value": "menorah"
+    },
+    {
+        "key": "atom_symbol",
+        "value": "atom"
+    },
+    {
+        "key": "radioactive_sign",
+        "value": "radioactive"
+    },
+    {
+        "key": "biohazard_sign",
+        "value": "biohazard"
+    },
+    {
+        "key": "fleur_de_lis",
+        "value": "fleur-de-lis"
+    },
+    {
+        "key": "double_vertical_bar",
+        "value": "play_pause"
+    },
+    {
+        "key": "black_left_pointing_double_triangle_with_vertical_bar",
+        "value": "track_previous"
+    },
+    {
+        "key": "black_right_pointing_double_triangle_with_vertical_bar",
+        "value": "track_next"
+    },
+    {
+        "key": "black_circle_for_record",
+        "value": "record_button"
+    },
+    {
+        "key": "black_square_for_stop",
+        "value": "stop_button"
+    },
+    {
+        "key": "black_right_pointing_triangle_with_double_vertical_bar",
+        "value": "play_pause"
+    },
+    {
+        "key": "left_speech_bubble",
+        "value": "eye_in_speech_bubble"
+    },
+    {
+        "key": "right_anger_bubble",
+        "value": "anger_right"
+    },
+    {
+        "key": "baguette_bread",
+        "value": "french_bread"
+    }
+]
